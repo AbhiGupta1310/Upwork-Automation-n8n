@@ -1,5 +1,7 @@
 # Upwork Job Scraper & AI Scorer (n8n Automation)
 
+![Upwork Automation n8n Workflow Diagram](img.png)
+
 This repository contains an advanced n8n workflow that automates the process of finding, filtering, and scoring Upwork jobs using AI.
 
 ## 📂 Project Files
